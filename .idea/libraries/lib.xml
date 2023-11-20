@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/BHAVRP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/matrix-0.0.0-20161207.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/matrix-0.0.0-20170621.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
